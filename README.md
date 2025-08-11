@@ -40,5 +40,3 @@
   <br>
   
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmj2237)](https://solved.ac/kimmj2237/)
